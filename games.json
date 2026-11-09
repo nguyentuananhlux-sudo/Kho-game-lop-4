@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1",
+    "type": "offline",
+    "name": "Tính nhanh",
+    "subject": "Toán",
+    "fileContent": "<!DOCTYPE html><html><head><meta charset='utf-8'><title>Tính Nhanh</title></head><body style='font-family:sans-serif; text-align:center; padding-top:50px;'><h1>Trò chơi Tính Nhanh Lớp 4</h1><p>Chúc các em làm bài thật tốt!</p></body></html>"
+  }
+]
