@@ -1,0 +1,178 @@
+[
+  {
+    "id": "toan-tinh-nhanh-4",
+    "name": "Thử thách tính nhanh Toán 4",
+    "subject": "Toán",
+    "grade": "Lớp 4",
+    "description": "Luyện phép tính, tìm x, đổi đơn vị, hình học và trung bình cộng.",
+    "emoji": "🧮",
+    "questions": [
+      {
+        "type": "mc",
+        "typeName": "🎯 Chọn đáp án đúng",
+        "q": "Tính giá trị biểu thức: 2450 × 4 = ?",
+        "options": [
+          "9800",
+          "8900",
+          "9600",
+          "10000"
+        ],
+        "answer": "9800"
+      },
+      {
+        "type": "mc",
+        "typeName": "🎯 Chọn đáp án đúng",
+        "q": "Thực hiện phép tính: 8400 : 4 = ?",
+        "options": [
+          "2100",
+          "2050",
+          "2200",
+          "2150"
+        ],
+        "answer": "2100"
+      },
+      {
+        "type": "mc",
+        "typeName": "🎯 Chọn đáp án đúng",
+        "q": "Tính giá trị biểu thức: (1200 + 400) × 2 = ?",
+        "options": [
+          "3200",
+          "2000",
+          "2800",
+          "3000"
+        ],
+        "answer": "3200"
+      },
+      {
+        "type": "mc",
+        "typeName": "🎯 Chọn đáp án đúng",
+        "q": "Tìm x, biết: x + 1500 = 4500",
+        "options": [
+          "3000",
+          "6000",
+          "2500",
+          "3500"
+        ],
+        "answer": "3000"
+      },
+      {
+        "type": "mc",
+        "typeName": "🎯 Chọn đáp án đúng",
+        "q": "Đổi đơn vị: 5 m 3 cm = ... cm",
+        "options": [
+          "503 cm",
+          "530 cm",
+          "53 cm",
+          "5003 cm"
+        ],
+        "answer": "503 cm"
+      },
+      {
+        "type": "mc",
+        "typeName": "🎯 Chọn đáp án đúng",
+        "q": "Góc có số đo lớn hơn góc vuông và nhỏ hơn góc bẹt là góc gì?",
+        "options": [
+          "Góc tù",
+          "Góc nhọn",
+          "Góc bẹt",
+          "Góc vuông"
+        ],
+        "answer": "Góc tù"
+      },
+      {
+        "type": "mc",
+        "typeName": "🎯 Chọn đáp án đúng",
+        "q": "Một hình vuông có cạnh 9 cm. Tính diện tích?",
+        "options": [
+          "81 cm²",
+          "36 cm²",
+          "18 cm²",
+          "72 cm²"
+        ],
+        "answer": "81 cm²"
+      },
+      {
+        "type": "mc",
+        "typeName": "🎯 Chọn đáp án đúng",
+        "q": "Trung bình cộng của hai số 45 và 65 là bao nhiêu?",
+        "options": [
+          "55",
+          "50",
+          "60",
+          "110"
+        ],
+        "answer": "55"
+      },
+      {
+        "type": "tf",
+        "typeName": "✔️❌ Đúng hay Sai",
+        "q": "Phát biểu sau Đúng hay Sai?\nGóc vuông có số đo bằng 90 độ.",
+        "options": [
+          "Đúng",
+          "Sai"
+        ],
+        "answer": "Đúng"
+      },
+      {
+        "type": "tf",
+        "typeName": "✔️❌ Đúng hay Sai",
+        "q": "Phát biểu sau Đúng hay Sai?\nKết quả của phép tính 125 × 8 bằng 1000.",
+        "options": [
+          "Đúng",
+          "Sai"
+        ],
+        "answer": "Đúng"
+      },
+      {
+        "type": "tf",
+        "typeName": "✔️❌ Đúng hay Sai",
+        "q": "Phát biểu sau Đúng hay Sai?\nSố dư lớn nhất trong phép chia cho 5 là 5.",
+        "options": [
+          "Đúng",
+          "Sai"
+        ],
+        "answer": "Sai"
+      },
+      {
+        "type": "tf",
+        "typeName": "✔️❌ Đúng hay Sai",
+        "q": "Phát biểu sau Đúng hay Sai?\n3 tấn 50 kg = 3050 kg.",
+        "options": [
+          "Đúng",
+          "Sai"
+        ],
+        "answer": "Đúng"
+      },
+      {
+        "type": "fill",
+        "typeName": "✍️ Điền vào chỗ trống",
+        "q": "Điền số thích hợp vào chỗ chấm:\n6 km = ... m\n(Chỉ nhập số)",
+        "options": [],
+        "answer": "6000"
+      },
+      {
+        "type": "fill",
+        "typeName": "✍️ Điền vào chỗ trống",
+        "q": "Tìm x, biết: x × 3 = 6300. Giá trị của x là:\n(Chỉ nhập số)",
+        "options": [],
+        "answer": "2100"
+      },
+      {
+        "type": "fill",
+        "typeName": "✍️ Điền vào chỗ trống",
+        "q": "Điền số thích hợp:\n2 giờ 15 phút = ... phút\n(Chỉ nhập số)",
+        "options": [],
+        "answer": "135"
+      },
+      {
+        "type": "fill",
+        "typeName": "✍️ Điền vào chỗ trống",
+        "q": "Số liền sau của số 9999 là:\n(Chỉ nhập số)",
+        "options": [],
+        "answer": "10000"
+      }
+    ],
+    "questionCount": 10,
+    "active": true
+  }
+]
